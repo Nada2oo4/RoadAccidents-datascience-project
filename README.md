@@ -16,7 +16,7 @@ How do weather and road types affect emergency response times?
 
 To enrich the dataset and support deeper insights, we implemented web scraping to collect additional information such as:
 
--Road condition updates or accident reports from traffic authority website
+-Road condition updates and accident reports from traffic authority website
 
  Libraries Used:
 
