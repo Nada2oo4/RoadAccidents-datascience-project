@@ -17,11 +17,13 @@ How do weather and road types affect emergency response times?
 To enrich the dataset and support deeper insights, we implemented web scraping to collect additional information such as:
 
 -Road condition updates or accident reports from traffic authority website
+
  Libraries Used:
 
--requests
--BeautifulSoup
--pandas
+- requests
+- BeautifulSoup
+- pandas
+
 Scraped data was cleaned and merged with the original dataset to better evaluate real-time impact of weather 
 and surface conditions on accident severity.
 
